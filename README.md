@@ -1,2 +1,0 @@
-# PartidoPolitico
-trabajo  final
